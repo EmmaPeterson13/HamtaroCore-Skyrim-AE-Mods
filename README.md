@@ -1,5 +1,6 @@
 # HamtaroCore-Skyrim-AE-Mods
 A collection of mods for Skyrim Special Edition AE curated by hammiesquee on Nexus Mods.
+https://next.nexusmods.com/skyrimspecialedition/collections/bwkkr0/revisions/1?tab=about&utm_source=copy&utm_medium=social&utm_campaign=share_collection
 # HamtaroCORE Skyrim AE rev1
 
 [![Hamtaro-CORE-Icon.png](https://i.postimg.cc/sD8vvvg0/Hamtaro-CORE-Icon.png)](https://postimg.cc/7f3xRP7g)
